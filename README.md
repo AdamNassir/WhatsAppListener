@@ -78,7 +78,7 @@ The application can archive new WhatsApp messages and supported media:
 - Audio files and voice notes
 - Stickers
 
-Media downloads depend on the enabled media rules. Existing conversation history is not automatically archived.
+**Media downloads depend on the enabled media rules. Existing conversation history is not automatically archived.**
 
 ### Security and privacy
 
@@ -98,4 +98,4 @@ Media downloads depend on the enabled media rules. Existing conversation history
 
 **Port 3000 is already in use:** Stop any existing application instance using that port.
 
-**No files are being saved:** Verify that the account is connected, the user and conversation are enabled, and the relevant media type is selected. Check that the configured conversation JID matches the WhatsApp identity used by Baileys.
+**My messages are not extracted:** Make sure to check the "Include messages sent by this account" option.
