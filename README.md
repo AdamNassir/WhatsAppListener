@@ -1,5 +1,7 @@
 ## Installation and Setup
 
+**This Application has only been tested on a phone running an Android OS, Apple OS or others have not been tested.**
+
 ### Prerequisites
 
 Before running WhatsApp Listener, install:
